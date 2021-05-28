@@ -1,3 +1,5 @@
-## BR
+## A Boundary Regression Model for Nested Named Entity Recognition
 
-This is a project about named entity recognition based on boundary regression.
+Ppaer Link：https://arxiv.org/abs/2011.14330
+
+Abstract：Recognizing named entities (NEs) is commonly implemented as a classification task that predicts a class tag for each NE candidate in a sentence. In a shallow structure, the decision boundary is learned from categorized features. Recent developments in neural networks adopt deep structures that map categorized features into continuous representations. This approach unfolds a dense space for word representations saturated with abstract semantic information. In this paper, this idea is further extended to adopt continuous position representation for NE boundaries. This extension catalyses a breakthrough for NE recognition, in which a regression operation is introduced to locate NEs in a sentence. This results in two advantages for NE recognition. First, locating NEs by boundary regression can resolve the nesting NE problem. Second, taking position parameters as supervision signs for training can make full use of annotated data. A multiobjective learning framework is designed based on boundary regression, which simultaneously predicts the class probability and locates nested NEs in a sentence. By sharing parameters for locating and predicting, this framework enables more potent nonlinear function approximators to enhance model discriminability. Experiments demonstrate state-of-theart performance for nested named entities.
