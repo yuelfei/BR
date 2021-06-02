@@ -1,0 +1,15 @@
+{"sentence": "港一名男子星期三因为他驾驶的汽车在交通高峰时间发生爆炸而受伤", "entity": ["他", "他驾驶的汽车"], "index": [[10, 10], [10, 15]], "type": ["PER", "VEH"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "初步报道说", "entity": [], "index": [], "type": [], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "这次爆炸可能是汽车炸弹引起的", "entity": ["汽车", "汽车炸弹"], "index": [[7, 8], [7, 10]], "type": ["VEH", "WEA"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "这名男子的汽车翻到路边", "entity": ["这名男子", "这名男子的汽车", "路边"], "index": [[0, 3], [0, 6], [9, 10]], "type": ["PER", "VEH", "FAC"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "并且撞到路口的一个栏杆上", "entity": ["路"], "index": [[4, 4]], "type": ["FAC"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "上个星期在香港一个地铁站台发现一颗假炸弹", "entity": ["香港", "香港一个地铁站台", "地铁", "一颗假炸弹"], "index": [[5, 6], [5, 12], [9, 10], [15, 19]], "type": ["GPE", "FAC", "VEH", "WEA"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "数百名上下班的地铁乘客被疏散", "entity": ["数百名上下班的地铁乘客", "地铁"], "index": [[0, 10], [7, 8]], "type": ["PER", "VEH"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "两天之后", "entity": [], "index": [], "type": [], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "在一个购物中心发现一颗小型炸弹", "entity": ["一个购物中心", "一颗小型炸弹"], "index": [[1, 6], [9, 14]], "type": ["FAC", "WEA"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "商店的顾客被疏散", "entity": ["商店的顾客", "商店"], "index": [[0, 4], [0, 1]], "type": ["PER", "FAC"], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "以上是国际新闻", "entity": [], "index": [], "type": [], "fileName": "apf_sgm/VOM20001129.0700.0363.sgm"}
+{"sentence": "经济不景气连庙里头的香油钱都有人要偷", "entity": ["庙", "有人"], "index": [[6, 6], [14, 15]], "type": ["FAC", "PER"], "fileName": "apf_sgm/CTS20001218.1300.0479.sgm"}
+{"sentence": "一名男子就在台北市东区的一间公园小庙里借上香拜佛的名义", "entity": ["一名男子", "台北市东区的一间公园小庙", "台北市东区", "台北市", "台北市东区的一间公园", "佛"], "index": [[0, 3], [6, 17], [6, 10], [6, 8], [6, 15], [23, 23]], "type": ["PER", "FAC", "LOC", "GPE", "FAC", "PER"], "fileName": "apf_sgm/CTS20001218.1300.0479.sgm"}
+{"sentence": "趁四下无人", "entity": ["人"], "index": [[4, 4]], "type": ["PER"], "fileName": "apf_sgm/CTS20001218.1300.0479.sgm"}
+{"sentence": "向神明偷拿香油钱", "entity": ["神明"], "index": [[1, 2]], "type": ["PER"], "fileName": "apf_sgm/CTS20001218.1300.0479.sgm"}

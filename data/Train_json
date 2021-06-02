@@ -1,0 +1,11 @@
+{"sentence": "俄罗斯总统普京29号抵达法国首都巴黎", "entity": ["俄罗斯总统", "俄罗斯", "普京", "法国", "法国首都", "巴黎"], "index": [[0, 4], [0, 2], [5, 6], [12, 13], [12, 15], [16, 17]], "type": ["PER", "GPE", "PER", "GPE", "GPE", "GPE"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "这是他就任总统以来首次以法国进行正式访问", "entity": ["他", "总统", "法国"], "index": [[2, 2], [5, 6], [12, 13]], "type": ["PER", "PER", "GPE"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "法国农业部长格拉瓦尼前往机场迎接普京", "entity": ["法国", "法国农业部长", "格拉瓦尼", "机场", "普京"], "index": [[0, 1], [0, 5], [6, 9], [12, 13], [16, 17]], "type": ["GPE", "PER", "PER", "FAC", "PER"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "普京当月30号在巴黎参加由欧盟轮值主席国法国主持的欧盟俄罗斯首脑会议", "entity": ["普京", "巴黎", "欧盟轮值主席国", "欧盟", "法国", "欧盟", "欧盟俄罗斯首脑", "俄罗斯"], "index": [[0, 1], [8, 9], [13, 19], [13, 14], [20, 21], [25, 26], [25, 31], [27, 29]], "type": ["PER", "GPE", "GPE", "GPE", "GPE", "GPE", "PER", "GPE"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "会议将动员讨论改善双方经济关系", "entity": ["双方"], "index": [[9, 10]], "type": ["GPE"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "并涉及中东局势等问题", "entity": ["中东"], "index": [[3, 4]], "type": ["GPE"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "据悉", "entity": [], "index": [], "type": [], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "本次会议将有助于俄罗斯实现其加入世界贸易组织的目标", "entity": ["俄罗斯", "世界贸易组织"], "index": [[8, 10], [16, 21]], "type": ["GPE", "ORG"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "但欧盟官员表示：本次首脑会议不大可能提出重大倡议", "entity": ["欧盟", "欧盟官员", "首脑"], "index": [[1, 2], [1, 4], [10, 11]], "type": ["GPE", "PER", "PER"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "中央台编译报道", "entity": ["中央台"], "index": [[0, 2]], "type": ["ORG"], "fileName": "apf_sgm/CTV20001030.1330.1412.sgm"}
+{"sentence": "继续播报详细的新闻内容", "entity": [], "index": [], "type": [], "fileName": "apf_sgm/CBS20001001.1000.0041.sgm"}
